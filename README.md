@@ -1,2 +1,2 @@
-# Python
+# land
 python practice
